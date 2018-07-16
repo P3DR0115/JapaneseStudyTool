@@ -1,0 +1,21 @@
+たべる,Eat,食
+のむ,Drink,飲
+よむ,Read,読
+おおき,Big,大
+ちいさい,Small,小
+おとこ,Male,男
+おんな,Female,女
+こども,Child,子
+にち,Day,日
+がつ,Month,月
+よう,Day of Week,曜
+げつようび,Monday,月曜日
+かようび,Tuesday,火曜日
+すいようび,Wednesday,水曜日
+もくようび,Thursday,木曜日
+きんようび,Friday,金曜日
+どようび,Saturday,土曜日
+にちようび,Sunday,日曜日
+やま,Mountain,山
+かわ,River,川
+かく,To Write,書

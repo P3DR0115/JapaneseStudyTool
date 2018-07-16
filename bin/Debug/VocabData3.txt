@@ -1,0 +1,7 @@
+taberu,Eat,taberu
+nomu,Drink,nomu
+yomu,Read,yomu
+chiisai,Small,chiisai
+ooki,Large,ooki
+otoko,Male,otoko
+onna,Female,onna

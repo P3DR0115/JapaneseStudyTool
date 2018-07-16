@@ -1,0 +1,15 @@
+﻿<Page x:Class="JapaneseStudyTool.TitlePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:JapaneseStudyTool"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="TitlePage" Height="350" Width="525">
+
+    <Grid>
+        <Button x:Name="StartButton" Content="はじめる" Margin="225,220,224.8,110" Click="StartButton_Click"/>
+
+    </Grid>
+</Page>
